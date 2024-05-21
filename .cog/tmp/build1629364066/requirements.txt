@@ -1,0 +1,5 @@
+fastapi
+numpy
+torch
+torchvision
+albumentations
